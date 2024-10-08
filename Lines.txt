@@ -10,3 +10,5 @@ tenth line on B1
 [b1 77a165b] add tenth line b1
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 directory/trackme.txt
+eleventh line
+twelfth line
